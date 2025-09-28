@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+
+.default {
+    font: 28px Helvetica, 'Times New Roman', sans-serif;
+}
+
+.first {
+    background-color: black;
+    color: white;
+}
+
+.second {
+
+}
